@@ -1,0 +1,13 @@
+{
+  "name": "Truma LIN MQTT Bridge",
+  "version": "1.0",
+  "slug": "truma_lin_mqtt",
+  "description": "Truma Combi 6 Steuerung und Überwachung via LIN-Protokoll und MQTT",
+  "startup": "application",
+  "boot": "auto",
+  "arch": ["aarch64", "amd64", "armv7"],
+  "map": ["config", "ssl", "addons", "backup"],
+  "options": {},
+  "schema": {},
+  "audio": false
+}
