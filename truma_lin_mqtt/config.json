@@ -9,7 +9,7 @@
   "map": ["config", "ssl", "addons", "backup"],
   "options": {},
   "schema": {},
-  "audio": false
+  "audio": false,
   "init": false,
   "host_network": true,
   "privileged": ["SYS_RAWIO", "SYS_ADMIN"],
